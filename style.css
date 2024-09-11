@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.work-term-report {
+
+    text-align: center;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+    padding: 2em;
+    text-align: center;
+    background-image: url("Picture1.png"); /* Replace with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    
+    height: 250px;
+}
+
+.img-container {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    max-width: 100%; /* Ensure the image doesn't exceed the container's width */
+    height: auto; /* Maintain aspect ratio   
+ */
+}
+
+main {
+    
+
+    padding: 2em;
+    max-width: 900px;
+    margin: 10px auto 0 auto;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+h2 {
+    color: #000000;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+p {
+    line-height: 1.6;
+}
