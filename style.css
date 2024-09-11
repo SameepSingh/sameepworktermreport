@@ -15,7 +15,7 @@ header {
     color: white;
     padding: 2em;
     text-align: center;
-    background-image: url("picture1.jpg"); /* Replace with the actual path to your image */
+    background-image: url("./picture1.jpg"); /* Replace with the actual path to your image */
     background-size: cover;
     background-position: center;
     
